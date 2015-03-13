@@ -8,3 +8,4 @@ dist
 build
 htmlcov
 develop
+local_settings.py

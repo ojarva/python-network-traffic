@@ -1,0 +1,10 @@
+syntax: glob
+
+*.pyc
+__pycache__
+*.egg-info
+.coverage
+dist
+build
+htmlcov
+develop

@@ -1,0 +1,2 @@
+pysnmp>=4.2.5
+pysnmp-mibs>=0.1.4
